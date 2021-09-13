@@ -1,2 +1,2 @@
 # oop_lab1_task1
-# Ignatovich Ivan Sergeevich
+# Ignatovich Ivan Sergeevich lox
